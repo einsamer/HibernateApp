@@ -15,7 +15,7 @@
    </servlet>
 
    <servlet-mapping>
-      <servlet-name>spring-dispatcher-abc</servlet-name>
+      <servlet-name>spring-dispatcher</servlet-name>
       <url-pattern>/</url-pattern>
    </servlet-mapping>
  
