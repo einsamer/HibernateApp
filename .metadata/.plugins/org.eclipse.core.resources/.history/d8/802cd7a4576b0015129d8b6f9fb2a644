@@ -8,6 +8,6 @@
 </head>
 <body>
 ${hello }
-<%response.sendRedirect("/data/go"); %>
+<%response.sendRedirect("/data/go") %>
 </body>
 </html>
